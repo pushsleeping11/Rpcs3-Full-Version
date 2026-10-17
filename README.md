@@ -240,4 +240,4 @@ This repository serves as the official landing page for RPCS3. The software is d
 **Get the most recent version of RPCS3 today!**
 
 ---
-**Last updated:** 2026-10-17 11:20:26 UTC
+**Last updated:** 2026-10-17 14:54:55 UTC
